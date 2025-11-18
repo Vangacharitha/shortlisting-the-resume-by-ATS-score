@@ -96,6 +96,3 @@ This workflow processes uploaded **PDF** resumes or **ZIP files** containing mul
 6. Watch automation do the rest automatically 🚀
 
 ---
-
-
-Just tell me!
